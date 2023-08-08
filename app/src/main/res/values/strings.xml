@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bolota IMC APP</string>
+    <string name="welcome_message">Hello, %1$s! You have %2$d new messages.</string>
+</resources>
+
